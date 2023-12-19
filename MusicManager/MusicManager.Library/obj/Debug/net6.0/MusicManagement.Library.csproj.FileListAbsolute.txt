@@ -1,0 +1,12 @@
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\bin\Debug\net6.0\MusicManagement.Library.deps.json
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\bin\Debug\net6.0\MusicManagement.Library.dll
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\bin\Debug\net6.0\MusicManagement.Library.pdb
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.csproj.AssemblyReference.cache
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.AssemblyInfoInputs.cache
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.AssemblyInfo.cs
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.csproj.CoreCompileInputs.cache
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.dll
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\refint\MusicManagement.Library.dll
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\MusicManagement.Library.pdb
+C:\Users\freez\source\repos\MusicManager\MusicManager.Library\obj\Debug\net6.0\ref\MusicManagement.Library.dll
